@@ -1,0 +1,9 @@
+Submition of Software To Open Source Project Repository
+
+(1) Identify of licenses to be used. For Malaysian Goverment Agencies the type of license to be used can be refer to Open Source Software (OSS) Implementation Guideline.
+
+http://www.oscc.org.my/content/view/25/208/
+
+
+
+http://www.ehow.com/how_2091738_start-open-source-project-sourceforge.html
